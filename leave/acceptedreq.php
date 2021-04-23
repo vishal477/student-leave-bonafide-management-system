@@ -1,3 +1,6 @@
+<!--We can see accepted requests here-->
+
+
 <?php
 session_start();
 if(!isset($_SESSION['key']))
